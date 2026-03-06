@@ -13,7 +13,7 @@ My professional life is based upon my insatiable desire to learn and understand 
 
 - **Frameworks:** .NET 8/Core, ASP.NET MVC, WPF, Blazor
 - **Database:** Entity Framework Core, Dapper, MS SQL Server, Sybase
-- **Architecture:** RESTful APIs, Microservices (SOA), MVVM, SOLID Principles
+- **Architecture:** RESTful APIs, Service Oriented Architecture, MVVM, SOLID Principles
 - **Tools:** PowerShell, JavaScript, PHP, Git, SQL Server Management Studio
 
 ### 🤝 Beyond Coding
